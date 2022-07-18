@@ -1,1 +1,1 @@
-# automation-selenium-todo-3.0
+# automation-selenium-todomvc-3.0
